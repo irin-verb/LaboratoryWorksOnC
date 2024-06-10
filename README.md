@@ -1,4 +1,4 @@
-# laboratory-works-on-C
+# Laboratory Works On C
 
 ## About
 
